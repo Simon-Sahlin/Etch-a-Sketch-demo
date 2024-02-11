@@ -3,3 +3,14 @@
     margin: 0px;
     padding: 0px;
 }
+
+.rowWrapper{
+    display: flex;
+}
+
+.gridCell{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
